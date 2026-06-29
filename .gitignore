@@ -1,0 +1,6 @@
+# .gitignore
+/vendor
+/storage
+/.idea
+/.vscode
+/.env
